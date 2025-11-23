@@ -32,8 +32,11 @@ Permite adicionar livros manualmente ou buscar dados automaticamente pela **API 
 ## 📁 Estrutura do Projeto
 
 index.html # Catálogo com filtros e lista de livros
+
 adicionarLivro.html # Página para adicionar novos livros
+
 js/catalogo.js # Lógica do catálogo (renderizar, filtrar e excluir)
+
 js/salvarLivro.js # Lógica de adicionar livros e buscar via API
 
 ## ▶️ Como utilizar
