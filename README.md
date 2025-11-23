@@ -1,4 +1,4 @@
-# 📚 Catálogo de Livros
+# Catálogo de Livros
 
 Projeto simples de **catálogo de livros** usando **HTML**, **CSS**, **JavaScript**, **Bootstrap** e **LocalStorage**.
 
@@ -6,21 +6,21 @@ Permite adicionar livros manualmente ou buscar dados automaticamente pela **API 
 
 ---
 
-## 🚀 Funcionalidades
+##  Funcionalidades
 
 - **Adicionar livros** com título, autor, categoria, ano e capa  
 - **Buscar automaticamente** pela *OpenLibrary API*  
 - Exibir livros em **cards responsivos**  
 - **Filtros disponíveis:**  
-  - 🔎 **Título** (campo de busca)  
-  - 🏷️ **Categoria**  
-  - 🖋️ **Autor**  
+  -  **Título** (campo de busca)  
+  -  **Categoria**  
+  -  **Autor**  
 - **Excluir livros individualmente**  
 - Armazenamento em **LocalStorage** (não precisa backend)
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 - **HTML5**  
 - **CSS3 / Bootstrap 5**  
@@ -29,17 +29,17 @@ Permite adicionar livros manualmente ou buscar dados automaticamente pela **API 
 
 ---
 
-## 📁 Estrutura do Projeto
+##  Estrutura do Projeto
 
-index.html # Catálogo com filtros e lista de livros
+index.html - Catálogo com filtros e lista de livros
 
-adicionarLivro.html # Página para adicionar novos livros
+adicionarLivro.html - Página para adicionar novos livros
 
-js/catalogo.js # Lógica do catálogo (renderizar, filtrar e excluir)
+js/catalogo.js - Lógica do catálogo (renderizar, filtrar e excluir)
 
-js/salvarLivro.js # Lógica de adicionar livros e buscar via API
+js/salvarLivro.js - Lógica de adicionar livros e buscar via API
 
-## ▶️ Como utilizar
+##  Como utilizar
 
 1. Abra o arquivo **index.html**
 2. Clique em **“Adicionar Livro”**
